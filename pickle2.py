@@ -1,5 +1,5 @@
 # Python's revenge
-# This is a easy python sandbox, can you bypass it and get the flag?
+# This is an easy python sandbox, can you bypass it and get the flag?
 # https://hitbxctf2018.xctf.org.cn/contest_challenge/
 from __future__ import unicode_literals
 from flask import Flask, request, make_response, redirect, url_for, session
